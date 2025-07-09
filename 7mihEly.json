@@ -17,7 +17,7 @@
         "You are free use for <range[1-2]> turn",
         "Grind or sit on <player> lap till it's your turn again",
         "everyone can ask <local> any question they want",
-        "Moan on mic for a few minutes",
+        "Moan on mic for <range[15-60]> seconds",
         "Get on all fours and bark",
         "Slap your own butt on loudly severally times",
         "if you are drinking take a shot if not spin again",
